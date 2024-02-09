@@ -26,6 +26,7 @@
    kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic my-topic --from-beginning
 
    To build a jar : mvn package
+   
    To upload in local maven repo : mvn install
 
 

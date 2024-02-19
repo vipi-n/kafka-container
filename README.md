@@ -1,3 +1,6 @@
+[![Contributors](https://img.shields.io/github/contributors/vipi-n/kafka-container.svg)](https://github.com/username/repository/graphs/contributors)
+
+
 ## To run using kafka container 
 ➠ install docker and docker desktop
 

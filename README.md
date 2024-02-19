@@ -1,4 +1,4 @@
-[![Contributors](https://img.shields.io/github/contributors/vipi-n/kafka-container.svg)](https://github.com/username/repository/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/vipi-n/kafka-container.svg)](https://github.com/vipi-n/kafka-container/graphs/contributors)
 
 
 ## To run using kafka container 
